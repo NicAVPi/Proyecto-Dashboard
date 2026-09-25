@@ -1,0 +1,2 @@
+modelo,exactitud,precision,recall,f1,roc_auc
+Regresion_Logistica,1.0,1.0,1.0,1.0,1.0
